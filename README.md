@@ -1,8 +1,8 @@
-#🐬 Dolphin Sports
+# 🐬 Dolphin Sports
 
 E-commerce focado em vendas de artigos esportivos. Projeto feito com o objetivo de estruturar a presença digital da marca através do desenvolvimento de uma aplicação web.
 
-##📜 Sobre o Projeto
+## 📜 Sobre o Projeto
 
 Loja digital que atua informalmente via canais de vendas e redes sociais.
 
@@ -14,9 +14,9 @@ O sistema inclui ferramentas como:
 5. SAC (Serviço de Atendimento ao Cliente);
 6. Checkout de pedidos.
 
-##🖥 Tecnologias Utilizadas
+## 🖥 Tecnologias Utilizadas
 
-###🎨 Frontend:
+### 🎨 Frontend:
 
  •HTML
  
@@ -24,7 +24,7 @@ O sistema inclui ferramentas como:
  
  •JavaScript
  
-###⚙ Backend:
+### ⚙ Backend:
 
  •Node.js
  
@@ -38,11 +38,11 @@ O sistema inclui ferramentas como:
  
  •.env para informações sensíveis
  
-###🗄 Banco de Dados: 
+### 🗄 Banco de Dados: 
 
  •MYSQL
 
- ##🎯 Objetivos
+ ## 🎯 Objetivos
 
  - Trazer credibilidade à marca
  - Aplicar boas práticas de desenvolvimento full stack
